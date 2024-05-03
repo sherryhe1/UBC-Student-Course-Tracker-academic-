@@ -1,0 +1,35 @@
+{
+    "Course-Taken List": [
+        {
+            "Section Average": 76,
+            "Grade": 97,
+            "Course Credit": 3,
+            "Course Name": "MATH221"
+        },
+        {
+            "Section Average": 79,
+            "Grade": 92,
+            "Course Credit": 4,
+            "Course Name": "CPSC110"
+        },
+        {
+            "Section Average": 80,
+            "Grade": 91,
+            "Course Credit": 1,
+            "Course Name": "PHYS119"
+        }
+    ],
+    "Student Name": "Sherry",
+    "Course Wishlist": [
+        {
+            "Past Average": 70,
+            "Course Credit": 4,
+            "Course Name": "CPSC213"
+        },
+        {
+            "Past Average": 66,
+            "Course Credit": 3,
+            "Course Name": "MATH200"
+        }
+    ]
+}
